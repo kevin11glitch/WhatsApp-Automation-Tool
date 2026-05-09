@@ -42,7 +42,7 @@ Para que o script funcione, você precisa instalar as bibliotecas que fazem a po
      - Você pode baixá-lo no site oficial: [Chromedriver Downloads](https://developer.chrome.com/docs/chromedriver/downloads?hl=pt-br).
 
 ## 📖Como Usar
--   Clone o repositório para sua máquina local com o link: ```kkk```.
+-   Clone o repositório para sua máquina local com o link: ```https://github.com/kevin11glitch/WhatsApp-Automation-Tool.git```.
 -   Preencha a planilha contatos.xlsx com os dados dos responsáveis.
 -   Certifique-se de que o chromedriver.exe está na mesma pasta do script.
 -   Execute o comando: `python automacao_whatsapp.py`
